@@ -1,5 +1,5 @@
 
-# Dokumentasi Final Project Pemrograman Python dan Pemrograman Web
+# Dokumentasi Final Project Pemrograman Python Lanjut
 
 ## Latar Belakang about "Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition"
 Latar belakang dari proyek Presensi Berbasis Face Recognition menggunakan Python dan Flask adalah untuk menyediakan solusi absensi yang lebih efisien. Metode absensi tradisional seperti mencatat absensi secara manual atau menggunakan sistem absensi berbasis sidik jari atau QR Code memiliki beberapa keterbatasan, seperti kesulitan dalam mengenali wajah atau kesulitan dalam menggunakan sistem absensi.
