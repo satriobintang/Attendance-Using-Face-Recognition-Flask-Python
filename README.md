@@ -20,9 +20,9 @@ Selain itu, menggunakan python dan flask juga sangat membantu dalam pengembangan
 
 Projek Presensi Berbasis Face Recognition menggunakan Python dan Flask merupakan sebuah sistem yang dapat digunakan untuk mengenali wajah seseorang dan mencatat presensi. Proyek ini menggunakan bahasa pemrograman Python dan framework Flask untuk membuat aplikasi web yang akan digunakan sebagai antarmuka pengguna.
 
-Sistem ini menggunakan algoritma K-Nearest Neighbors (KNN) untuk melakukan pengenalan wajah. Dalam proses pelatihan, sistem akan mengumpulkan data wajah yang dikenal dan label yang sesuai, kemudian melatih model KNN dengan data tersebut. Setelah melatih model, sistem dapat digunakan untuk mengenali wajah baru dan mencatat presensi secara otomatis.
+Sistem ini menggunakan algoritma K-Nearest Neighbors (KNN) untuk melakukan pengenalan wajah. Dalam proses pelatihan, sistem akan mengumpulkan data wajah yang dikenal dan label yang sesuai, kemudian melatih model KNN dengan data tersebut. Setelah melatih model, sistem dapat digunakan untuk mengenali wajah baru dan mencatat presensi.
 
-Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh pengguna untuk mengecek presensi yang telah tercatat.Delegating all the hard work to the [Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition](https://github.com/satriobintang/Attendance-Using-Face-Recognition-Flask-Python).
+Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh pengguna untuk mengecek presensi yang telah tercatat. Mendelegasikan semua kerja keras untuk [Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition](https://github.com/satriobintang/Attendance-Using-Face-Recognition-Flask-Python).
 
 ## Dependencies
 
@@ -30,7 +30,7 @@ Sistem ini akan dilengkapi dengan antarmuka web yang dapat digunakan oleh penggu
 
 ## Requirements and installation
 
-In order to work, encryptor project is based on these following modules:
+In order to work, Attendance Using Face Recognition project is based on these following modules:
 
 - cv2
 - os
@@ -40,7 +40,7 @@ In order to work, encryptor project is based on these following modules:
 - sklearn
 - pandas 
 
-To install Flask, simply:
+To install library, simply:
 
 ```bash
 > pip install Flask
@@ -90,7 +90,7 @@ Gambar di bawah ini adalah contoh penggunaan program presensi menggunakan Face R
     <br>
  </p>
   
-Gambar dibawah menunjukan kamera akan terbuka untuk melakukan pengambilan gambar wajah sebanyak 50. Gambar tersebut digunakan untuk data training untuk mengenali wajah yang akan melakukan presensi. Setelah Berhasil menambahkan gambar sekarang "Total Mahasiswa Terdaftar" sudah bertambah, sebelumnya masih 0 sekarang bertambah menjadi 1.
+Gambar dibawah menunjukan kamera akan terbuka untuk melakukan pengambilan gambar wajah sebanyak 50. Gambar tersebut digunakan untuk data training untuk mengenali wajah yang akan melakukan presensi.
  <p align="center">
     <img src="image/README/face-recognition-satrio-camera-open-for-get-data-training.png" width="700" />
     <br>
