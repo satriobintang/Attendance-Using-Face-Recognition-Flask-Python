@@ -1,4 +1,9 @@
-
+![GitHub code size](https://img.shields.io/github/languages/code-size/satriobintang/Attendance-Using-Face-Recognition-Flask-Python)
+![GitHub repo size](https://img.shields.io/github/repo-size/satriobintang/Attendance-Using-Face-Recognition-Flask-Python?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/satriobintang/Attendance-Using-Face-Recognition-Flask-Python?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/satriobintang/Attendance-Using-Face-Recognition-Flask-Python?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/satriobintang/Attendance-Using-Face-Recognition-Flask-Python?color=red&style=plastic)
+![GitHub downloads](https://img.shields.io/github/downloads/satriobintang/Attendance-Using-Face-Recognition-Flask-Python/total)
 # Dokumentasi Final Project Pemrograman Python Lanjut
 
 ## Latar Belakang "Presensi Universitas Amikom Yogyakarta Berbasis Face Recognition"
